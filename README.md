@@ -56,7 +56,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Hugging Face](https://huggingface.co/) for the Wav2Vec2 models.
 - [Pyannote](https://github.com/pyannote/pyannote-audio) for the speaker diarization pipeline.
 - [SpaCy](https://spacy.io/) for the natural language processing toolkit.
-
----
-
-Feel free to customize this template to better fit your project's specifics and your personal preferences.
